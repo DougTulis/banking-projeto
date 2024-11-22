@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace BANK_MELHORADO.Entidades {
     internal class ContaComum : ContaGenerica,IOperacaoBancaria {
 
-        public string CPF { get; set; }
+        public string CPF { get;private set; }
 
         public ContaComum() { }
 

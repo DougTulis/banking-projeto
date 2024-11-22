@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BANK_MELHORADO.Entidades.Exceções;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,13 +12,14 @@ namespace BANK_MELHORADO.Entidades {
             bool Contem = false;
             foreach (var item in Colecao) {
                 if (Email.Trim().Equals(item.Email.Trim()) && Senha.Trim().Equals(item.Senha.Trim())) {
-                    Console.WriteLine("Seja bem vindo de volta," + item.Nome + "!");
+                    Console.WriteLine("Seja bem vindo de volta, " + item.Nome + "!");
                     Contem = true;
                     return item;
                 }                
             }
             if (!Contem) {
-                Console.WriteLine("Conta não encontrada no sistema, tente novamente.");
+                throw new ContaException("Conta não encontrada no sistema, tente novamente.");
+               
             }
             return null;
         }
@@ -31,7 +33,7 @@ namespace BANK_MELHORADO.Entidades {
                 }
             }
             if (!Contem) {
-                Console.WriteLine("Conta não encontrada no sistema, tente novamente.");
+                throw new ContaException("Conta não encontrada no sistema, tente novamente.");
             }
             return null;
         }

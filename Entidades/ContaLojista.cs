@@ -1,4 +1,5 @@
-﻿using BANK_MELHORADO.Interface;
+﻿using BANK_MELHORADO.Entidades.Exceções;
+using BANK_MELHORADO.Interface;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -16,7 +17,7 @@ namespace BANK_MELHORADO.Entidades {
 
         public ContaLojista(EnumConta Enum, string CNPJ, string Nome, string Senha, string Email) : base(Nome, Senha, Email,Enum){
             this.CNPJ = CNPJ;
-            Enum = EnumConta.LOJISTA;
+            
         
         }
 
