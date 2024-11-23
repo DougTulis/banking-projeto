@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Família\\source\\repos\\BANK MELHORADO\\BANK MELHORADO\\Banking App.csproj": {}
+    "C:\\Users\\dotul\\source\\repos\\banking-projeto\\Banking App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Família\\source\\repos\\BANK MELHORADO\\BANK MELHORADO\\Banking App.csproj": {
+    "C:\\Users\\dotul\\source\\repos\\banking-projeto\\Banking App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Família\\source\\repos\\BANK MELHORADO\\BANK MELHORADO\\Banking App.csproj",
+        "projectUniqueName": "C:\\Users\\dotul\\source\\repos\\banking-projeto\\Banking App.csproj",
         "projectName": "Banking App",
-        "projectPath": "C:\\Users\\Família\\source\\repos\\BANK MELHORADO\\BANK MELHORADO\\Banking App.csproj",
-        "packagesPath": "C:\\Users\\Família\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Família\\source\\repos\\BANK MELHORADO\\BANK MELHORADO\\obj\\",
+        "projectPath": "C:\\Users\\dotul\\source\\repos\\banking-projeto\\Banking App.csproj",
+        "packagesPath": "C:\\Users\\dotul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dotul\\source\\repos\\banking-projeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Família\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dotul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
