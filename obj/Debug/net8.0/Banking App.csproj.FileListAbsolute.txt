@@ -13,3 +13,18 @@ C:\Users\Família\source\repos\BANK MELHORADO\BANK MELHORADO\obj\Debug\net8.0\re
 C:\Users\Família\source\repos\BANK MELHORADO\BANK MELHORADO\obj\Debug\net8.0\Banking App.pdb
 C:\Users\Família\source\repos\BANK MELHORADO\BANK MELHORADO\obj\Debug\net8.0\Banking App.genruntimeconfig.cache
 C:\Users\Família\source\repos\BANK MELHORADO\BANK MELHORADO\obj\Debug\net8.0\ref\Banking App.dll
+C:\Users\dotul\source\repos\banking-projeto\bin\Debug\net8.0\Banking App.exe
+C:\Users\dotul\source\repos\banking-projeto\bin\Debug\net8.0\Banking App.deps.json
+C:\Users\dotul\source\repos\banking-projeto\bin\Debug\net8.0\Banking App.runtimeconfig.json
+C:\Users\dotul\source\repos\banking-projeto\bin\Debug\net8.0\Banking App.dll
+C:\Users\dotul\source\repos\banking-projeto\bin\Debug\net8.0\Banking App.pdb
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.AssemblyInfoInputs.cache
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.AssemblyInfo.cs
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.csproj.CoreCompileInputs.cache
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.sourcelink.json
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.dll
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\refint\Banking App.dll
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.pdb
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\Banking App.genruntimeconfig.cache
+C:\Users\dotul\source\repos\banking-projeto\obj\Debug\net8.0\ref\Banking App.dll
